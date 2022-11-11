@@ -44,7 +44,7 @@ export const Projects = () => {
       title: "ELCIN Management Sytem",
       description: "Developed in HTML,CSS JAVASCRIPT with React JS framework",
       imgUrl: cms,
-      weblink:"https://slic-rick.github.io/Online-Drummer/",
+      weblink:"https://youtu.be/iOtAkckSdg4",
       githubLink:"https://github.com/slic-rick/cms",
     },
     {
@@ -52,7 +52,7 @@ export const Projects = () => {
       description: "Design & Development with React JS",
       imgUrl: portfolio,
       weblink:"",
-      githubLink:"https://github.com/slic-rick/",
+      githubLink:"https://github.com/slic-rick/portfolio",
     },
     {
       title: "Kidcare kollege website",
